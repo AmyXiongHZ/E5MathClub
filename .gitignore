@@ -1,0 +1,20 @@
+# OS / Office junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+~$*
+
+# Model samples stay local-only (never uploaded to GitHub)
+semesters/*/journal/essays/sample-*.md
+semesters/*/journal/feature/sample-*.md
+
+# Spoiler materials stay local-only (if ever placed inside the repo)
+semesters/**/Cipher_Challenge_Official_Solution.pdf
+semesters/**/Cipher_Challenge_Answers.md
+
+# Weeks: push ONLY weeks that have already happened.
+# Rule: after each meeting (or each Monday), add one "!" line for the new week folder.
+semesters/*/weeks/*/
+!semesters/*/weeks/week-01-launch-caesar-workshop/
+!semesters/*/weeks/week-02-caesars-gallic-wars/
