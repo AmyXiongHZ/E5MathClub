@@ -1,10 +1,9 @@
 # E5MathClub · Math Origins — Where Ideas Begin
 
-**E⁵ Math Club** — Cambridge A Level supercurricular society. We study the history of mathematics: real problems, real people, and the links to modern engineering, data and computation.
+**E⁵ Math Club** — We study the history of mathematics: real problems, real people, and the links to modern engineering, data and computation.
 
-- **Track:** Cambridge A Level · recruitment 2026 · maths history
 - **Open to:** all year groups — no Further Maths required, just bring your questions
-- **When:** every week (90 minutes) · **Where:** Room xxx
+- **When:** every week (60 minutes) 
 - **Founder:** Xiong Xiaoya
 
 ## The E⁵ Way — our five E's
@@ -32,16 +31,16 @@ Spotlight (life & legacy of one mathematician) · Origins (how ideas were born �
 
 Each semester the club writes and publishes one volume (~6–7 members):
 
-| Format | Author | Length | What it is |
-|--------|--------|--------|------------|
-| Essay (`journal/essays/`) | all members, narrators lead | 400–600 words | event-driven history, zero formulas |
-| Toolkit (`journal/toolkits/`) | toolkit author + editor | 650–800 words | one A Level topic + one worked example |
-| Feature (`journal/feature/`) | editor-in-chief | 3,800–4,500 words | research essay, UCAS written-work candidate |
+| Format                        | Author                      | Length            | What it is                                  |
+| ----------------------------- | --------------------------- | ----------------- | ------------------------------------------- |
+| Essay (`journal/essays/`)     | all members, narrators lead | 400–600 words     | event-driven history, zero formulas         |
+| Toolkit (`journal/toolkits/`) | toolkit author + editor     | 650–800 words     | one A Level topic + one worked example      |
+| Feature (`journal/feature/`)  | editor-in-chief             | 3,800–4,500 words | research essay, UCAS written-work candidate |
 
 ## Semesters
 
-| Semester | Theme | Status |
-|----------|-------|--------|
+| Semester                                             | Theme                                        | Status      |
+| ---------------------------------------------------- | -------------------------------------------- | ----------- |
 | [2026 Autumn](./semesters/2026-autumn-cryptography/) | Codes, Communications & Computation (Vol. 1) | In progress |
 
 ## How this repository works
